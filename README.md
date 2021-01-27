@@ -6,4 +6,4 @@
 <li>Setting up a database and schema with Mongodb (integrated into windows)
 <li>Creating POST, GET, PUT, and DELETE endpoints 
 <li>Using express routes to serve files
-<li>tested with postman, and robo3T
+<li>Tested with postman, and robo3T
